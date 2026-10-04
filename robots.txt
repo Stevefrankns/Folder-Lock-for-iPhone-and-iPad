@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Folder-Lock-for-iPhone-and-iPad/sitemap.xml
